@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TAUUITests.xctest' tests='10' failures='0'>
+  <testsuite name='TAUTests.TAUTests' tests='2' failures='0'>
+    <testcase classname='TAUTests.TAUTests' name='testExample' time='0.003'/>
+    <testcase classname='TAUTests.TAUTests' name='testPerformanceExample' time='0.280'/>
+  </testsuite>
+  <testsuite name='TAUUITests.BDDTest' tests='1' failures='0'>
+    <testcase classname='TAUUITests.BDDTest' name='testThankYouMessage' time='4.310'/>
+  </testsuite>
+  <testsuite name='TAUUITests.TAUUITests' tests='3' failures='0'>
+    <testcase classname='TAUUITests.TAUUITests' name='testAllElementsOnMainScreen' time='4.396'/>
+    <testcase classname='TAUUITests.TAUUITests' name='testLaunchPerformance' time='78.324'/>
+    <testcase classname='TAUUITests.TAUUITests' name='testThankYouMessage' time='4.196'/>
+  </testsuite>
+  <testsuite name='TAUUITests.TAUUITestsLaunchTests' tests='4' failures='0'>
+    <testcase classname='TAUUITests.TAUUITestsLaunchTests' name='testLaunch' time='2.977'/>
+    <testcase classname='TAUUITests.TAUUITestsLaunchTests' name='testLaunch' time='5.256'/>
+    <testcase classname='TAUUITests.TAUUITestsLaunchTests' name='testLaunch' time='3.711'/>
+    <testcase classname='TAUUITests.TAUUITestsLaunchTests' name='testLaunch' time='5.254'/>
+  </testsuite>
+</testsuites>
