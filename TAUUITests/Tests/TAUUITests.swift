@@ -16,7 +16,7 @@ class TAUUITests: BaseTest {
         // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         app.staticTexts["welcomeMessage"].tap()
-        app.staticTexts["enterCity"].tap()
+        //app.staticTexts["enterCity"].tap()
         app.staticTexts["Enroll"].tap()
         app.staticTexts["Please Enter City"].tap()
         app.images["TAUlogo"].tap()
