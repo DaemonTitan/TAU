@@ -28,7 +28,7 @@ class TAUUITests: BaseTest {
         app.textFields["city"].tap()
         //app.textFields["city"].typeText("test")
         app.buttons["enrollButton"].tap()
-        //XCTAssertTrue(app.staticTexts["Thanks for Joining!"].exists)
+        //XCTAssertTrue(app.staticTexts["Thanks for Joining!"].exists)test
     }
     
     func testLaunchPerformance() throws {
