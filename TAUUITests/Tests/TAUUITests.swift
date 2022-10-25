@@ -21,7 +21,7 @@ class TAUUITests: BaseTest {
         app.staticTexts["Please Enter City"].tap()
         app.images["TAUlogo"].tap()
         app.textFields["city"].tap()
-        XCTAssertTrue(app/*@START_MENU_TOKEN@*/.staticTexts["welcomeMessage"]/*[[".staticTexts[\"Welcome to XCUITest Course \"]",".staticTexts[\"welcomeMessage\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/.exists)
+        XCTAssertTrue(app/*@START_MENU_TOKEN@*/.staticTexts["welcomeMessage"]/*[[".staticTexts[\"Welcome to XCUITest Course \"]",".staticTexts[\"welcomeMessage\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/.exists
     }
     
     func testThankYouMessage(){
